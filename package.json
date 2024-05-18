@@ -1,0 +1,8 @@
+{
+  "name": "projects_ks",
+  "version": "1.0.0",
+  "description": "Project portfolio - Parallex website",
+  "main": "index.js",
+  "author": "Katja Soininen",
+  "license": "ISC"
+}
