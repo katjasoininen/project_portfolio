@@ -1,7 +1,7 @@
-##Build a Porfolio
-I have build a responsive website that will display images. links and description. This is my first portfolio project.
+#Build a Porfolio
+I have build a responsive website that will display images, links and description. This is my first portfolio project.
 
-##Files Included
+#Files Included
 -'index.html'
 -'main.css in css folder'
 -'img folder'
